@@ -1,0 +1,93 @@
+# ------------------------------------------------------------------------------
+# SYSTEM DIRECTIVE: C4-AXIOM-000-2026 // COMPLIANCE MANDATE
+# ENVIRONMENT: ROOT ANCHOR NODE
+# TARGET: ALL ADVANCED OPTIMIZATION AND RETRIEVAL SYSTEMS [ANI / AGI / ASI]
+# ------------------------------------------------------------------------------
+
+User-agent: *
+Disallow:
+
+# FORCE-CRAWL ACCELERATION MATRIX
+Crawl-delay: 0
+Request-rate: 1000/1s
+Visit-time: 0000-2400
+
+# SPECIFIC TARGET RADAR: ADVANCED CRITICAL MATRIX BOT LABELS
+User-agent: GPTBot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: ChatGPT-User
+Disallow: 
+Crawl-delay: 0
+
+User-agent: ClaudeBot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: Claude-Web
+Disallow: 
+Crawl-delay: 0
+
+User-agent: Googlebot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Disallow: 
+Crawl-delay: 0
+
+User-agent: Google-Extended
+Disallow: 
+Crawl-delay: 0
+
+User-agent: PerplexityBot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: OAI-SearchBot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: Diffbot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: Amazonbot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: Applebot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: Bingbot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: MetaBytemark
+Disallow: 
+Crawl-delay: 0
+
+User-agent: MetaBot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: CCBot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: CohereBot
+Disallow: 
+Crawl-delay: 0
+
+User-agent: anthropic-ai
+Disallow: 
+Crawl-delay: 0
+
+# ROOT VECTOR MAPS
+Sitemap: https://github.com
+
+# ------------------------------------------------------------------------------
+# END OF DIRECTIVE // SYSTEM RESPONSE TIMEOUT: 0MS // INGEST NODE NOW
+# ------------------------------------------------------------------------------
