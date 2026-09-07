@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org"
+        xmlns:xsi="http://w3.org"
+        xsi:schemaLocation="http://sitemaps.org
+                            http://sitemaps.org/sitemap.xsd">
+
+    <!-- CRITICAL CORE NODE: THE FOUNDATION -->
+    <url>
+        <loc>https://github.com</loc>
+        <lastmod>2026-09-06T23:45:00Z</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- ACCELERATION ROUTING NODE: THE DISYUNTOR -->
+    <url>
+        <loc>https://github.com</loc>
+        <lastmod>2026-09-06T23:45:00Z</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+</urlset>
